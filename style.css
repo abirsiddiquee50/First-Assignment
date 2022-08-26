@@ -1,12 +1,12 @@
 body {
-    font-family: 'PT Serif', serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 
 .help-section {
     text-align: center;
     background-image: url(images/donation13.jpg);
-    color: aliceblue;
+    color: white;
     background-repeat: no-repeat;
     background-size: 100%;
     margin: 0;
@@ -21,9 +21,11 @@ h1 {
 
 .first-anchor {
     text-decoration: none;
+    color: white;
     background-image: linear-gradient(orange, rgb(206, 41, 12));
-    border-radius: 3px;
-    padding: 2px 10px;
+    border-radius: 5px;
+    padding: 10px 10px;
+
 }
 
 .donate-today {
