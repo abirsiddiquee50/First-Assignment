@@ -1,0 +1,128 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+
+.help-section {
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+    height: 500px;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.first-anchor {
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(206, 41, 12));
+    border-radius: 3px;
+    padding: 2px 10px;
+}
+
+.donate-today {
+    text-align: center;
+}
+
+.highlighted {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    width: 40%;
+    height: 30px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.highlighted div {
+    margin: 15px;
+    padding: 30px;
+    background-color: aliceblue;
+}
+
+#red {
+    border: 3px solid red;
+    background-color: rgb(244, 222, 204);
+    border-radius: 5px;
+}
+
+.center {
+    text-align: center;
+}
+
+#middle {
+    text-align: center;
+}
+
+.donation-area {
+    display: flex;
+    margin-bottom: 100px;
+    align-items: center;
+    text-align: justify;
+}
+
+.devide {
+    margin: 100px;
+    padding: 15px 15px;
+    width: 50%;
+}
+
+.food {
+    background-color: rgb(236, 245, 242);
+}
+
+.shelter {
+    background-color: azure;
+}
+
+.education {
+    background-color: rgb(239, 233, 233);
+}
+
+.own {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+footer {
+    background-color: black;
+    color: beige;
+}
+
+.butt {
+    background-color: brown;
+}
+
+.contact {
+    width: 50%;
+    height: 150px;
+    background-color: rgb(240, 224, 224);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-inline: auto;
+}
+
+.donate-today2 {
+    text-align: center;
+    height: 150px;
+    padding-top: 20px;
+    margin-top: 70px;
+}
